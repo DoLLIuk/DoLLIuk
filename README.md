@@ -1,5 +1,5 @@
 Hi, I’m @DoLLIuk im currently working on game project on Unity. Im looking to collaborate with someone advanced in unity and/or c#. 
-I will be happy if you give me advice on the code
+I will be happy if you give me advice on any part of my code.
 
 
 
