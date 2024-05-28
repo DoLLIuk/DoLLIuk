@@ -50,16 +50,12 @@ I'm a programmer that just gaining experience so I would like to get some advice
 </td></tr></table>  
 
 <br/>  
-
-
-    Adobe 
-
                     </p>
                     
-                  ### Socials
+  ### Socials
                   
                   
-                <p align="left">
+ <p align="left">
                       <a href="https://discord.com/users/doshik25" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
