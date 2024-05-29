@@ -9,8 +9,8 @@ I'm a programmer that just gaining experience so I would like to get some advice
 *   🌍  I'm based in Chicago
 *   ✉️  You can contact me at [golovkonikita25@gmail.com](mailto:golovkonikita25@gmail.com)
 *   🧠  I'm learning JavaScript app developing
-*   🤝  I'm open to collaborating on any interesting projects### Skills
-  <  br/>  
+*   🤝  I'm open to collaborating on any interesting projects
+ 
 
 
 ## My Skill Set  
